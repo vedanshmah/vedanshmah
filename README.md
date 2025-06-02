@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- 👯 I’m looking to participate in **Hackathons**
+- 👯 I’m actively participating in **Hackathons**
   
 - 🔭 **I have decent foundation in Data Structures and Algorithms (DSA)**
 
